@@ -1,6 +1,8 @@
 # easyNote 📚
  
 Aplicativo desenvolvido em **React Native** para facilitar o registro e validação de notas e faltas de alunos, baseado nas regras acadêmicas da FIAP.
+
+- Disponibilidade para: Android e Web
  
 ---
  
